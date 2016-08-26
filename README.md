@@ -2,6 +2,7 @@ This technological world we are living in, brings us new and exciting tools almo
 
 ![2015](https://bekkopen.blob.core.windows.net/attachments/987447c7-094c-4746-85bc-36530e8bf250)
 ![2016](https://bekkopen.blob.core.windows.net/attachments/6ee0063b-6f24-429c-9397-40ac9aa6e374)
+
 Kilde: http://www.gartner.com/ - hype cycle 2015 and 2016
 
 If you take this comparison and combine it with these articles: 
