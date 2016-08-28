@@ -55,7 +55,7 @@ All that had to be done was creating an account at an [exchange](https://steem
 I got hooked and started to post other Pokemon Go articles:
 
 1. https://steemit.com/pokemon-go/@vongohren/low-hanging-fruit-business-ideas-during-this-pokemon-go-craze
-2. https://steemit.com/pokemongo/@vongohren/how-to-find-that-rare-pokemon-in-your-area
+2. https://steemit.com/pokemon-go/@vongohren/how-to-find-that-rare-pokemon-in-your-area
 
 But that didn't go so well. I had to find myself a new niché. So I decided to create a Steemit.com community in Norway, by creating a [meetup group](https://www.meetup.com/steemitnorway/), and see if there was some interest for discussions around this platform.
 
