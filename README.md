@@ -77,7 +77,7 @@ When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme".
 
 First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true and can't be understood, some sort of scheme.
 
-But I can't deny that this feels to good to be true, and then the scepticisme rise. To be honest i'm not quite sure what a ponzi scheme is but I have to say that the rumors have some really convincing arguments: 
+But I can't deny that this feels to good to be true, and then the scepticisme rise. A ponzi scheme is an individual or organization, who pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned through legitimate sources. I do not have a whole lof of experience with ponzi scheme, but I have to say that the rumors have some really convincing arguments: 
 * [Is steemit a ponzi scheme](https://steemit.com/steem/@gavvet/is-steemit-a-ponzi-scheme)
 * [SteemIt - Ponzi scheme, pyramid scheme, a bubble or pure genius?](https://steemit.com/steemit/@calamus056/steemit-ponzi-scheme-pyramid-scheme-a-bubble-or-pure-genius)
 * [How the Steem pyramid scheme really works](https://steemit.com/steemit/@orly/how-the-steem-pyramid-scheme-really-works)
@@ -90,10 +90,12 @@ But you won't be in risk of the scheme if you don't invest in the platform. You 
 
 So basically since people don't pay to upvote, then one can wonder where the money comes from. But to get some insight into the crypto currency world I would like to use bitcoin as an example.
 
-When bitcoin was introduced it had no value. The coins were created out of nothing. People where mining(terminology in blockchain) to get rewarded with bitcoins when they “solved” a block. So people were gaining a crypto currency but it had no value. Then an exchange were created, saying that they would trade FIAT money for bitcoin. This caught attention, a currency that was anonymous, going outside of all banking regulations, and had some familiar value. So people started to accept bitcoin as something that could be used and worth something.
+When bitcoin was introduced it had no value. The coins were created out of nothing. People where mining([terminology in blockchain](http://www.coindesk.com/information/how-bitcoin-mining-works/)) to get rewarded with bitcoins when they “solved” a block. So people were gaining a crypto currency that had no value. Then an exchange was created, saying that they would trade FIAT money for bitcoin. This caught attention, a currency that was anonymous, going outside of all banking regulations, and had some familiar value. People started to accept bitcoin as something that could be used and worth something, and bitcoin started to gain value.
 
-The same is being done with steem, except that it's not the mining that is providing new coins to the people, it's the upvoting. People provide content, it is accepted as good content, coins are generated, and rewarded to the provider. Voting is the mining.
+The same is being done with steem, except that it's not the mining that is providing new steem coins to the people, it's the upvoting. People provide content, it is accepted as good content by beeing upvoted, steem coins are generated, and rewarded to the provider. Voting is the mining.
+
+Exchanges have started to accept steem and steem dollars, and there is a lot people on the steem platform, and there are people willing to buy and sell these coins. Then steem currency is gaining value! And since the exchanges are willing to sell for FIAT money, people get real legal tender currency for their steem and steem dollars.
 
 #### **Conclusion**
 
-Go to [steemit.com](https://steemit.com/), sign up, join the community, share your thoughts, be a part of the blockchain revolution and get into the crypto currency world! **Don't invest in something your not sure about, do your research if you consider to invest. Or just live the happy life as a content provider.**
+Go to [steemit.com](https://steemit.com/), sign up, join the community, share your thoughts, be a part of the blockchain revolution and get into the crypto currency world! **Don't invest in something you're not sure about, do your research if you consider to invest. Or just live the happy life as a content provider.**
