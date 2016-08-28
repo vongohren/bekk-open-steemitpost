@@ -61,17 +61,17 @@ But that didn't go so well. I had to find myself a new niché. So I decided to c
 
 The group was created, and suddenly people started to join. I decided to be quick about it and create a [first get together](https://www.meetup.com/steemitnorway/events/233082436/). Just over some beer so we could meet eachother. This was posted to steemit.com: [https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup](https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup) to announce Norways first meetup event, and see if I could get some support from the community to buy the members some beers.
 
-The community came through and did a great deed and upvoted that post to $855, where the author, me,  would recieve $731. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to by others in the Norwegian community. This transaction works so that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
+The community came through with a great deed and upvoted that post to $855, where the author, me, would recieve $731. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to by others in the Norwegian community. This transaction works so, that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
 
-So now I had 2485 KR to buy beer for my fellow steemians. 12 people met up, we had some good discussions and nice to talks, and everybody who wanted beer through out the evening, got it. I did do a follow up story to show the community what their contribution went to: [https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup](https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup)
+So now I had 2485 KR to buy beer for my fellow steemians. 12 people met up, we had some good discussions and nice to talks, and everybody who wanted beer through out the evening, got it. I did do a follow up story to show the community what their contribution went to: [https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup](https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup)
 
-That post did also really well! And the profit from that has been turned into bitcoins, and are currently beeing invested in the blockchain/crypto currency world, in hope to grow and be used at later meetups.
+That post did also really well! And the profit from that has been turned into bitcoins, and are currently beeing invested in the blockchain/crypto currency world, in hope to grow and be used at later meetups.
 
 #### **Discussion**
 
 I can't praise the site without mentioning what is beeing said about this platform.
 
-When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. And the next is that, users don't pay to upvote, so where does the money come from?
+When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. The next is that, users don't pay to upvote, so where does the money come from?
 
 ##### **Pyramid scheme or Ponzi scheme**
 
