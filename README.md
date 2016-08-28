@@ -48,7 +48,7 @@ _**"When a post receives a payout it takes the form of 50% Steem Dollars and 50%
 
 So now I had earned about $150 of liquid assets and had to see if this could be turned into actual [FIAT money](http://www.investopedia.com/terms/f/fiatmoney.asp). That turned out to be kinda easy.
 
-All that had to be done was creating an account at an [exchange](https://steem.io/#exchanges) that accepts Steem as a tradable crypto currency. Then trade the Steem to a FIAT currency, and withdraw that into your own bank account. But to be able to do this process, you have to verify yourself and they do add a lot of fees for this withdraw. But there are plenty of other solutions out there, and since Bitcoin is highly tradeble, I decided to buy Bitcoin, and keep my earnings within the crypto currency environment.
+All that had to be done was creating an account at an [exchange](https://steem.io/#exchanges) that accepts Steem as a tradable crypto currency. Then trade the Steem to a FIAT currency, and withdraw that into your own bank account. But to be able to do the withdraw process, you have to verify yourself properly and they do add a lot of fees for this withdraw. But there are plenty of other solutions out there, and since Bitcoin is highly tradeble, I decided to buy Bitcoin, and keep my earnings within the crypto currency environment.
 
 #### **What happend next?**
 
