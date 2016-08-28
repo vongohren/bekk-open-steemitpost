@@ -4,12 +4,12 @@
 **Ingress:**
 ## Heard about the hype blockchain? Well here is one of the greater innovations using the blockchain technology.
 
-This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to be able to wrap your head around it all. But one technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
+This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to be able to wrap your head around it all. One technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
 
 ![2015](https://bekkopen.blob.core.windows.net/attachments/987447c7-094c-4746-85bc-36530e8bf250)
 ![2016](https://bekkopen.blob.core.windows.net/attachments/6ee0063b-6f24-429c-9397-40ac9aa6e374)
 
-Kilde: http://www.gartner.com/ - hype cycle 2015 and 2016
+Source: http://www.gartner.com/ - hype cycle 2015 and 2016
 
 If you take this comparison and combine it with these articles: 
 
@@ -20,9 +20,9 @@ We can start to consider blockchain to be the next big thing, and atleast that i
 
 #### **Where does [Steemit.com](https://steemit.com/) and monetized upvotes come in?**
 
-[steemit.com](https://intern.bekk.no/Open/Post/Edit/steemit.com) is a new blockchain content publishing platform that has upvotes and downvotes of the content that is posted. Pretty similar to [reddit.com](https://www.reddit.com/). But the one part where steemit beats reddit, is a direct link between upvotes and cash, or crypt currency to be precise.
+[steemit.com](https://intern.bekk.no/Open/Post/Edit/steemit.com) is a new blockchain content publishing platform that has upvotes and downvotes of the content that is posted. Pretty similar to [reddit.com](https://www.reddit.com/). But the one part where steemit beats reddit, is a direct link between upvotes and cash, or crypto currency to be precise.
 
-[steemit.com](https://steemit.com/) has created a platform where users sign up for free, post content for free, and if the content is appriciated by the other users, the poster get money for free. The poster get directly rewarded for his contributions and efforts put into creating that specific content.
+[steemit.com](https://steemit.com/) has created a platform where users sign up for free, post content for free, and if the content is appriciated by the other users, the poster get money for free. The poster get rewarded directly for his contributions and efforts put into creating that specific content.
 
 This is starting to sound like a mail I would send out to millions of people to try to scam them, but honest to god, this really has potential. Again something they would have said.
 
@@ -30,23 +30,23 @@ The only way for me to be able to acctually prove to you that this platform is 
 
 #### **My short story on Steemit**
 
-It all started with me scrolling the internet with my phone in july 2016, on the train, heading to Stockholm. I found [this article](https://www.theguardian.com/technology/2016/jul/12/steem-digital-currency-steemit-value-soars) from the guardian which spiked my curiousity. I had recently started to grow an interest in blockchains, from when I attended [Blockchainday in Oslo](http://www.oslotech.no/2016/oslo-blockchain-day/) back in April. So i did some googling to figure out what this [Steem](http://coinmarketcap.com/currencies/steem/) was, which eventually led me to [steemit.com](https://steemit.com/).
+It all started with me scrolling the internet with my phone in july 2016, on the train, heading to Stockholm. I found [this article](https://www.theguardian.com/technology/2016/jul/12/steem-digital-currency-steemit-value-soars) from the guardian which piqued my curiousity. I had recently started to grow interested in blockchains, from when I attended [Blockchainday in Oslo](http://www.oslotech.no/2016/oslo-blockchain-day/) back in April. So i did some googling to figure out what this [Steem](http://coinmarketcap.com/currencies/steem/) was, which eventually led me to [steemit.com](https://steemit.com/).
 
 ![Steemit.com](https://bekkopen.blob.core.windows.net/attachments/d1532b24-18b9-4b76-973f-a408696e376a)
 
 Seeing all those dollars next to the upvote button made me think that this was to good to be true! So I decided to try it out, on the train, on my phone, to see if there was anything to this platform!
 
-So i ended up writing about another super trend at the moment, you guessed it right, Pokemon Go: https://steemit.com/pokemon-go/@vongohren/how-pokemon-go-became-so-popular
+So i ended up writing about another super trend at the moment, which was Pokemon Go: https://steemit.com/pokemon-go/@vongohren/how-pokemon-go-became-so-popular
 
 I can't really justify the content in this article, it was written in 15 minutes, on a mobile phone, on a train. But it was a test to see what the platform was all about. And i'm quite glad i tried it out.
 
-As you can see on the upvotes it did provide 414$, where 103$ went to the curators and 311$ went to the author. Which I was.
+As you can see on the upvotes it did provide $414, where $103 went to the curators and $311 went to the author. Which I was.
 
-But, and theres always a but, this is just an estimated dollar value based on last weeks market price of the current steem crypto currency. And steemit.com has done it so that you won't get all the crypto currency paid out in liquid assets. According to [steemit's whitepaper](https://steemit.com/steem/@liondani/steem-whitepaper-download) they do a 50-50 split on liquid assets and non liquid assets:
+But, and there's always a but, this is just an estimated dollar value based on last weeks market price of the current steem crypto currency. And steemit.com has done it so that you won't get all the crypto currency paid out in liquid assets. According to [steemit's whitepaper](https://steemit.com/steem/@liondani/steem-whitepaper-download) they do a 50-50 split on liquid assets and non liquid assets:
 
 _**"When a post receives a payout it takes the form of 50% SteemDollars and 50% SteemPower. The Steem Power give the user increased voting and transaction power while the SteemDollar gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, both SteemPower and SteemDollar are designed to encourage long-term holding rather than short-term selling." **_
 
-So now I had earned about 150$ of liquid assets and had to see if this could be turned into actual [FIAT money](http://www.investopedia.com/terms/f/fiatmoney.asp). That turned out to be kinda easy.
+So now I had earned about $150 of liquid assets and had to see if this could be turned into actual [FIAT money](http://www.investopedia.com/terms/f/fiatmoney.asp). That turned out to be kinda easy.
 
 All that had to be done was creating an account at an [exchange](https://steem.io/#exchanges) that accepts Steem as a tradable crypto currency. Then trade the Steem to a FIAT currency, and withdraw that into your own bank account. But to be able to do this process, you have to verify yourself and they do add a lot of fees for this withdraw. But there are plenty of other solutions out there, and since Bitcoin is highly tradeble, I decided to buy Bitcoin, and keep my earnings within the crypto currency environment.
 
@@ -61,7 +61,7 @@ But that didn't go so well. I had to find myself a new niché. So I decided to c
 
 The group was created, and suddenly people started to join. I decided to be quick about it and create a [first get together](https://www.meetup.com/steemitnorway/events/233082436/). Just over some beer so we could meet eachother. This was posted to steemit.com: [https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup](https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup) to announce Norways first meetup event, and see if I could get some support from the community to buy the members some beers.
 
-The community came through and did a great deed and upvoted that post to 855$, where the author, me,  would recieve 731$. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found myself a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to from some others in the community. This transaction works so that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
+The community came through and did a great deed and upvoted that post to $855, where the author, me,  would recieve $731. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found myself a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to from some others in the community. This transaction works so that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
 
 So now I had 2485 KR to buy beer for my fellow steemians. 12 people met up, we had some good discussions and nice to talks, and everybody who wanted beer through out the evening, got it. I did do a follow up story to show the community what their contribution went to: [https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup](https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup)
 
