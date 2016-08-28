@@ -44,7 +44,7 @@ As you can see on the upvotes it did provide $414, where $103 went to the curato
 
 But, and there's always a but, this is just an estimated dollar value based on last weeks market price of the current steem crypto currency. And steemit.com has done it so that you won't get all the crypto currency paid out in liquid assets. According to [steemit's whitepaper](https://steemit.com/steem/@liondani/steem-whitepaper-download) they do a 50-50 split on liquid assets and non liquid assets:
 
-_**"When a post receives a payout it takes the form of 50% SteemDollars and 50% SteemPower. The Steem Power give the user increased voting and transaction power while the SteemDollar gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, both SteemPower and SteemDollar are designed to encourage long-term holding rather than short-term selling." **_
+_**"When a post receives a payout it takes the form of 50% Steem Dollars and 50% Steem Power. The Steem Power give the user increased voting and transaction power while the Steem Dollar gives the user an immediate benefit in a stable currency. As we’ve already discussed at length, both Steem Power and Steem Dollar are designed to encourage long-term holding rather than short-term selling." **_
 
 So now I had earned about $150 of liquid assets and had to see if this could be turned into actual [FIAT money](http://www.investopedia.com/terms/f/fiatmoney.asp). That turned out to be kinda easy.
 
