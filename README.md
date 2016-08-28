@@ -61,7 +61,7 @@ But that didn't go so well. I had to find myself a new niché. So I decided to c
 
 The group was created, and suddenly people started to join. I decided to be quick about it and create a [first get together](https://www.meetup.com/steemitnorway/events/233082436/). Just over some beer so we could meet eachother. This was posted to steemit.com: [https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup](https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup) to announce Norways first meetup event, and see if I could get some support from the community to buy the members some beers.
 
-The community came through and did a great deed and upvoted that post to $855, where the author, me,  would recieve $731. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found myself a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to from some others in the community. This transaction works so that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
+The community came through and did a great deed and upvoted that post to $855, where the author, me,  would recieve $731. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to by others in the Norwegian community. This transaction works so that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
 
 So now I had 2485 KR to buy beer for my fellow steemians. 12 people met up, we had some good discussions and nice to talks, and everybody who wanted beer through out the evening, got it. I did do a follow up story to show the community what their contribution went to: [https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup](https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup)
 
@@ -69,15 +69,22 @@ That post did also really well! And the profit from that has been turned into b
 
 #### **Discussion**
 
-I can't only praise the site without having a little discussion around what is beeing said about this platform.
+I can't praise the site without mentioning what is beeing said about this platform.
 
-When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. And the next is that, if I didn't mention it, users don't pay to upvote, so where does the money come from?
+When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. And the next is that, users don't pay to upvote, so where does the money come from?
 
 ##### **Pyramid scheme or Ponzi scheme**
 
-First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true  and can't be understood, some sort of scheme.
+First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true and can't be understood, some sort of scheme.
 
-But I can't deny that this feels to good to be true, and then the sceptisisme rise. To be honest i'm not quite sure what a ponzi scheme is but I have to say that [the rumors](http://goo.gl/Jqevq4) have some really convincing arguments. But you won't be in risk of the scheme if you don't invest in the platform. You could rather just be a content provider and get your reward from that.
+But I can't deny that this feels to good to be true, and then the scepticisme rise. To be honest i'm not quite sure what a ponzi scheme is but I have to say that the rumors have some really convincing arguments: 
+* [Is steemit a ponzi scheme](https://steemit.com/steem/@gavvet/is-steemit-a-ponzi-scheme)
+* [SteemIt - Ponzi scheme, pyramid scheme, a bubble or pure genius?](https://steemit.com/steemit/@calamus056/steemit-ponzi-scheme-pyramid-scheme-a-bubble-or-pure-genius)
+* [How the Steem pyramid scheme really works](https://steemit.com/steemit/@orly/how-the-steem-pyramid-scheme-really-works)
+* [Steemit Criticized For Ponzi Scheme-Like Network](http://thebitcoinnews.com/steemit-criticized-for-ponzi-scheme-like-network-2/)
+* [The Great Steemit Debate: Tone Vays vs. Jeff Berwick “Ponzi Scheme or Paradigm Shift?”](https://anarchast.liberty.me/the-great-steemit-debate-tone-vays-vs-jeff-berwick-ponzi-scheme-or-paradigm-shift/)
+
+But you won't be in risk of the scheme if you don't invest in the platform. You could rather just be a content provider and get your reward from that.
 
 ##### **Where does the money come from?**
 
