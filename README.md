@@ -11,7 +11,7 @@ If you take this comparison and combine it with these articles:
 
 We can start to consider blockchain to be the next big thing, and atleast that it's here to stay!
 
-![Steemit logo](https://bekkopen.blob.core.windows.net/attachments/512f687b-3c18-4669-a337-c6b2ecdeeb91)
+![Steemit logo](https://bekkopen.blob.core.windows.net/attachments/2899acd2-2aef-4d26-a205-0b66dd30c2b2)
 
 ## Where does [Steemit.com](https://steemit.com/) and monetized upvotes come in?
 
