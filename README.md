@@ -9,6 +9,8 @@ If you take this comparison and combine it with these articles:
 
 We can start to consider blockchain to be the next big thing, and atleast that it's here to stay!
 
+![Steemit logo](https://bekkopen.blob.core.windows.net/attachments/512f687b-3c18-4669-a337-c6b2ecdeeb91)
+
 #### **Where does [Steemit.com](https://steemit.com/) and monetized upvotes come in?**
 
 [steemit.com](https://intern.bekk.no/Open/Post/Edit/steemit.com) is a new blockchain content publishing platform that has upvotes and downvotes of the content that is posted. Pretty similar to [reddit.com](https://www.reddit.com/). But the one part where steemit beats reddit, is a direct link between upvotes and cash, or crypto currency to be precise.
