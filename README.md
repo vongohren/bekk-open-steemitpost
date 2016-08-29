@@ -66,9 +66,7 @@ That post did also really well! And the profit from that has been turned into bi
 
 ### **Discussion**
 
-I can't praise the site without mentioning what is beeing said about this platform.
-
-When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. The next is that, users don't pay to upvote, so where does the money come from?
+I can't praise the site without mentioning what is beeing said about this platform. When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. The next is that, users don't pay to upvote, so where does the money come from?
 
 #### **Pyramid scheme or Ponzi scheme**
 
