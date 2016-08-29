@@ -6,14 +6,11 @@
 
 This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to be able to wrap your head around it all. One technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
 
-![2015](https://bekkopen.blob.core.windows.net/attachments/987447c7-094c-4746-85bc-36530e8bf250)
-![2016](https://bekkopen.blob.core.windows.net/attachments/6ee0063b-6f24-429c-9397-40ac9aa6e374)
+2015: http://www.gartner.com/newsroom/id/3114217    
+2016: http://www.gartner.com/newsroom/id/3412017
 
-Source: http://www.gartner.com/ - hype cycle 2015 and 2016
-
-If you take this comparison and combine it with these articles: 
-
-1. [https://techcrunch.com/2016/05/11/the-blockchain-is-the-new-google/](https://techcrunch.com/2016/05/11/the-blockchain-is-the-new-google/)
+If you take this comparison and combine it with these articles:    
+1. [https://techcrunch.com/2016/05/11/the-blockchain-is-the-new-google/](https://techcrunch.com/2016/05/11/the-blockchain-is-the-new-google/)    
 2. [http://www.huffingtonpost.com/don-tapscott/whats-the-nextgeneration-_b_6859156.html](http://www.huffingtonpost.com/don-tapscott/whats-the-nextgeneration-_b_6859156.html)
 
 We can start to consider blockchain to be the next big thing, and atleast that it's here to stay!
@@ -61,6 +58,8 @@ But that didn't go so well. I had to find myself a new niché. So I decided to c
 
 The group was created, and suddenly people started to join. I decided to be quick about it and create a [first get together](https://www.meetup.com/steemitnorway/events/233082436/). Just over some beer so we could meet eachother. This was posted to steemit.com: [https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup](https://steemit.com/steemevents/@vongohren/norway-s-first-steemit-meetup) to announce Norways first meetup event, and see if I could get some support from the community to buy the members some beers.
 
+![Overview of wallet](https://bekkopen.blob.core.windows.net/attachments/3bb5470b-5535-4a48-8eef-518e2c0b2f75)
+
 The community came through with a great deed and upvoted that post to $855, where the author, me, would recieve $731. After the split of non liqiuid and liquid assets, and the conversion to bitcoins, I had about 0.5 bitcoins, which was valued at that moment at 2485 KR. I found a local bitcoin dealer: [http://bitmynt.no/](http://bitmynt.no/), which I got referred to by others in the Norwegian community. This transaction works so, that you send the amount of bitcoin to him, he will send you NOK to your bank account, based on the current rate when he recieved the bitcoin into his wallet, with enough confirmations. You contact him first of course, but all that is explained on his page.
 
 So now I had 2485 KR to buy beer for my fellow steemians. 12 people met up, we had some good discussions and nice to talks, and everybody who wanted beer through out the evening, got it. I did do a follow up story to show the community what their contribution went to: [https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup](https://steemit.com/steemevents/@vongohren/reports-from-the-norways-first-meetup)
@@ -75,14 +74,13 @@ When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme".
 
 ##### **Pyramid scheme or Ponzi scheme**
 
-First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true and can't be understood, some sort of scheme.
+First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true and can't be understood, some sort of scheme. A ponzi scheme is an individual or organization, who pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned through legitimate sources. Following are some links to some argumentations around steemit.com and ponzi scheme:
 
-But I can't deny that this feels to good to be true, and then the scepticisme rise. A ponzi scheme is an individual or organization, who pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned through legitimate sources. I do not have a whole lof of experience with ponzi scheme, but I have to say that the rumors have some really convincing arguments: 
+* [Steemit Criticized For Ponzi Scheme-Like Network](http://thebitcoinnews.com/steemit-criticized-for-ponzi-scheme-like-network-2/)
+* [The Great Steemit Debate: Tone Vays vs. Jeff Berwick “Ponzi Scheme or Paradigm Shift?”](https://anarchast.liberty.me/the-great-steemit-debate-tone-vays-vs-jeff-berwick-ponzi-scheme-or-paradigm-shift/)
 * [Is steemit a ponzi scheme](https://steemit.com/steem/@gavvet/is-steemit-a-ponzi-scheme)
 * [SteemIt - Ponzi scheme, pyramid scheme, a bubble or pure genius?](https://steemit.com/steemit/@calamus056/steemit-ponzi-scheme-pyramid-scheme-a-bubble-or-pure-genius)
 * [How the Steem pyramid scheme really works](https://steemit.com/steemit/@orly/how-the-steem-pyramid-scheme-really-works)
-* [Steemit Criticized For Ponzi Scheme-Like Network](http://thebitcoinnews.com/steemit-criticized-for-ponzi-scheme-like-network-2/)
-* [The Great Steemit Debate: Tone Vays vs. Jeff Berwick “Ponzi Scheme or Paradigm Shift?”](https://anarchast.liberty.me/the-great-steemit-debate-tone-vays-vs-jeff-berwick-ponzi-scheme-or-paradigm-shift/)
 
 But you won't be in risk of the scheme if you don't invest in the platform. You could rather just be a content provider and get your reward from that.
 
@@ -92,9 +90,9 @@ So basically since people don't pay to upvote, then one can wonder where the mon
 
 When bitcoin was introduced it had no value. The coins were created out of nothing. People where mining([terminology in blockchain](http://www.coindesk.com/information/how-bitcoin-mining-works/)) to get rewarded with bitcoins when they “solved” a block. So people were gaining a crypto currency that had no value. Then an exchange was created, saying that they would trade FIAT money for bitcoin. This caught attention, a currency that was anonymous, going outside of all banking regulations, and had some familiar value. People started to accept bitcoin as something that could be used and worth something, and bitcoin started to gain value.
 
-The same is being done with steem, except that it's not the mining that is providing new steem coins to the people, it's the upvoting. People provide content, it is accepted as good content by beeing upvoted, steem coins are generated, and rewarded to the provider. Voting is the mining.
+The same is being done with steem, except that it's not the mining that is providing new steem coins to the people, it's the upvoting. People provide content, it is accepted as good content by beeing upvoted, steem coins are generated, and rewarded to the provider. Content generation and the following votes is the mining.
 
-Exchanges have started to accept steem and steem dollars, and there is a lot people on the steem platform, and there are people willing to buy and sell these coins. Then steem currency is gaining value! And since the exchanges are willing to sell for FIAT money, people get real legal tender currency for their steem and steem dollars.
+Exchanges have started to accept steem and steem dollars, there is a lot people on the steem platform, and there are people willing to buy and sell these coins. This gives the steem currency a value! And since the exchanges are willing to sell for FIAT money, people get real legal tender currency for their steem and steem dollars, and can live from their contributions.
 
 #### **Conclusion**
 
