@@ -11,7 +11,7 @@ We can start to consider blockchain to be the next big thing, and atleast that i
 
 ![Steemit logo](https://bekkopen.blob.core.windows.net/attachments/512f687b-3c18-4669-a337-c6b2ecdeeb91)
 
-#### **Where does [Steemit.com](https://steemit.com/) and monetized upvotes come in?**
+## Where does [Steemit.com](https://steemit.com/) and monetized upvotes come in?
 
 [steemit.com](https://intern.bekk.no/Open/Post/Edit/steemit.com) is a new blockchain content publishing platform that has upvotes and downvotes of the content that is posted. Pretty similar to [reddit.com](https://www.reddit.com/). But the one part where steemit beats reddit, is a direct link between upvotes and cash, or crypto currency to be precise.
 
@@ -21,7 +21,7 @@ This is starting to sound like a mail I would send out to millions of people to 
 
 The only way for me to be able to acctually prove to you that this platform is these things that im saying right here, is to tell you my short story on [steemit.com](https://steemit.com/)
 
-#### **My short story on Steemit**
+## My short story on Steemit
 
 It all started with me scrolling the internet with my phone in july 2016, on the train, heading to Stockholm. I found [this article](https://www.theguardian.com/technology/2016/jul/12/steem-digital-currency-steemit-value-soars) from the guardian which piqued my curiousity. I had recently started to grow interested in blockchains, from when I attended [Blockchainday in Oslo](http://www.oslotech.no/2016/oslo-blockchain-day/) back in April. So i did some googling to figure out what this [Steem](http://coinmarketcap.com/currencies/steem/) was, which eventually led me to [steemit.com](https://steemit.com/).
 
@@ -43,7 +43,7 @@ So now I had earned about $150 of liquid assets and had to see if this could be 
 
 All that had to be done was creating an account at an [exchange](https://steem.io/#exchanges) that accepts Steem as a tradable crypto currency. Then trade the Steem to a FIAT currency, and withdraw that into your own bank account. But to be able to do the withdraw process, you have to verify yourself properly and they do add a lot of fees for this withdraw. But there are plenty of other solutions out there, and since Bitcoin is highly tradeble, I decided to buy Bitcoin, and keep my earnings within the crypto currency environment.
 
-#### **What happend next?**
+### **What happend next?**
 
 I got hooked and started to post other Pokemon Go articles:
 
@@ -62,13 +62,13 @@ So now I had 2485 KR to buy beer for my fellow steemians. 12 people met up, we h
 
 That post did also really well! And the profit from that has been turned into bitcoins, and are currently beeing invested in the blockchain/crypto currency world, in hope to grow and be used at later meetups.
 
-#### **Discussion**
+### **Discussion**
 
 I can't praise the site without mentioning what is beeing said about this platform.
 
 When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. The next is that, users don't pay to upvote, so where does the money come from?
 
-##### **Pyramid scheme or Ponzi scheme**
+#### **Pyramid scheme or Ponzi scheme**
 
 First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true and can't be understood, some sort of scheme. A ponzi scheme is an individual or organization, who pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned through legitimate sources. Following are some links to some argumentations around steemit.com and ponzi scheme:
 
@@ -80,7 +80,7 @@ First of all, bitcoin was called a ponzi scheme in its early stages. Often is ev
 
 But you won't be in risk of the scheme if you don't invest in the platform. You could rather just be a content provider and get your reward from that.
 
-##### **Where does the money come from?**
+#### **Where does the money come from?**
 
 So basically since people don't pay to upvote, then one can wonder where the money comes from. But to get some insight into the crypto currency world I would like to use bitcoin as an example.
 
