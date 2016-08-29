@@ -90,6 +90,6 @@ The same is being done with steem, except that it's not the mining that is provi
 
 Exchanges have started to accept steem and steem dollars, there is a lot people on the steem platform, and there are people willing to buy and sell these coins. This gives the steem currency a value! And since the exchanges are willing to sell for FIAT money, people get real legal tender currency for their steem and steem dollars, and can live from their contributions.
 
-#### **Conclusion**
+## **Conclusion**
 
 Go to [steemit.com](https://steemit.com/), sign up, join the community, share your thoughts, be a part of the blockchain revolution and get into the crypto currency world! **Don't invest in something you're not sure about, do your research if you consider to invest. Or just live the happy life as a content provider.**
