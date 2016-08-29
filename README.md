@@ -1,9 +1,3 @@
-**Headline:**
-# Steemit.com? Blockhain? Monetized upvotes?
-
-**Ingress:**
-## Heard about the hype blockchain? Well here is one of the greater innovations using the blockchain technology.
-
 This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to be able to wrap your head around it all. One technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
 
 2015: http://www.gartner.com/newsroom/id/3114217    
