@@ -19,7 +19,7 @@ We can start to consider blockchain to be the next big thing, and atleast that i
 
 [steemit.com](https://steemit.com/) has created a platform where users sign up for free, post content for free, and if the content is appriciated by the other users, the poster get money for free. The poster get rewarded directly for his contributions and efforts put into creating that specific content.
 
-This is starting to something a scammer would have said, but honest to god, this really has potential. Again something they would have been very convincing about.
+This is starting to sound something what a scammer would have said, but honest to god, this really has potential. Again something they would have been very convincing about.
 
 The only way to prove the validity of the platform is to tell you my experience with [steemit.com](https://steemit.com/)
 
