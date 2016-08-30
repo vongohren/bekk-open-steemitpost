@@ -1,6 +1,6 @@
 ## Blockchain
 
-This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to be able to wrap your head around it all. One technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
+This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to wrap your head around it all. One technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
 
 2015: http://www.gartner.com/newsroom/id/3114217    
 2016: http://www.gartner.com/newsroom/id/3412017
@@ -15,13 +15,13 @@ We can start to consider blockchain to be the next big thing, and atleast that i
 
 ## Where does [Steemit.com](https://steemit.com/) and monetized upvotes come in?
 
-[steemit.com](https://intern.bekk.no/Open/Post/Edit/steemit.com) is a new blockchain content publishing platform that has upvotes and downvotes of the content that is posted. Pretty similar to [reddit.com](https://www.reddit.com/). But the one part where steemit beats reddit, is a direct link between upvotes and cash, or crypto currency to be precise.
+[steemit.com](https://intern.bekk.no/Open/Post/Edit/steemit.com) is a new blockchain content publishing platform that allow for upvoting and downvoting the posted content. Pretty similar to [reddit.com](https://www.reddit.com/). But the one part where steemit beats reddit, is a direct link between upvotes and cash, or crypto currency to be precise.
 
 [steemit.com](https://steemit.com/) has created a platform where users sign up for free, post content for free, and if the content is appriciated by the other users, the poster get money for free. The poster get rewarded directly for his contributions and efforts put into creating that specific content.
 
-This is starting to sound like a mail I would send out to millions of people to try to scam them, but honest to god, this really has potential. Again something they would have said.
+This is starting to something a scammer would have said, but honest to god, this really has potential. Again something they would have been very convincing about.
 
-The only way for me to be able to acctually prove to you that this platform is these things that im saying right here, is to tell you my short story on [steemit.com](https://steemit.com/)
+The only way to prove the validity of the platform is to tell you my experience with [steemit.com](https://steemit.com/)
 
 ## My short story on Steemit
 
@@ -43,7 +43,7 @@ _**"When a post receives a payout it takes the form of 50% Steem Dollars and 50%
 
 So now I had earned about $150 of liquid assets and had to see if this could be turned into actual [FIAT money](http://www.investopedia.com/terms/f/fiatmoney.asp). That turned out to be kinda easy.
 
-All that had to be done was creating an account at an [exchange](https://steem.io/#exchanges) that accepts Steem as a tradable crypto currency. Then trade the Steem to a FIAT currency, and withdraw that into your own bank account. But to be able to do the withdraw process, you have to verify yourself properly and they do add a lot of fees for this withdraw. But there are plenty of other solutions out there, and since Bitcoin is highly tradeble, I decided to buy Bitcoin, and keep my earnings within the crypto currency environment.
+All that had to be done was to create an account at an [exchange](https://steem.io/#exchanges) exchange that accept Steem as a tradable crypto currency. Then trade the Steem to a FIAT currency, and withdraw that into your own bank account. But to be able to do this withdraw process, you have to verify yourself properly and they do add a lot of fees for this withdraw. But there are plenty of other solutions out there, and since Bitcoin is highly tradeble, I decided to buy Bitcoin, and keep my earnings within the crypto currency environment.
 
 ### **What happend next?**
 
@@ -66,11 +66,11 @@ That post did also really well! And the profit from that has been turned into bi
 
 ### **Discussion**
 
-I can't praise the site without mentioning what is beeing said about this platform. When I first mention this to people, they say, "Pyramid scheme", "Ponzi scheme". It's pretty much everybodys first reaction. The next is that, users don't pay to upvote, so where does the money come from?
+I can't praise the site without mentioning what is beeing said about this platform. When I first mention this to people, they say "Pyramid scheme" or "Ponzi scheme". It's pretty much everybodys first reaction. And the next thing they say is that users don't pay to upvote, so where does the money come from?
 
 #### **Pyramid scheme or Ponzi scheme**
 
-First of all, bitcoin was called a ponzi scheme in its early stages. Often is everything that seems to good to be true and can't be understood, some sort of scheme. A ponzi scheme is an individual or organization, who pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned through legitimate sources. Following are some links to some argumentations around steemit.com and ponzi scheme:
+First of all, bitcoin was called a ponzi scheme in its early stages. Often times, everything that seems too good to be true and can't be understood is some sort of scheme. A ponzi scheme is an individual or organization, who pays returns to its investors from new capital paid to the operators by new investors, rather than from profit earned through legitimate sources. Following are some links to some argumentations around steemit.com and ponzi scheme:
 
 * [Steemit Criticized For Ponzi Scheme-Like Network](http://thebitcoinnews.com/steemit-criticized-for-ponzi-scheme-like-network-2/)
 * [The Great Steemit Debate: Tone Vays vs. Jeff Berwick “Ponzi Scheme or Paradigm Shift?”](https://anarchast.liberty.me/the-great-steemit-debate-tone-vays-vs-jeff-berwick-ponzi-scheme-or-paradigm-shift/)
