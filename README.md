@@ -2,8 +2,8 @@
 
 This technological world we are living in, brings us new and exciting tools almost everyday. It's impossible to wrap your head around it all. One technology that has taken the world by storm lately is this thing called [Blockchain](https://en.wikipedia.org/wiki/Blockchain_(database)). People are saying it is going to revolutionize the world and is the next greatest thing to the internet. If we compare the two hype cycles from gartner, 2015 and 2016, we suddenly see that blockchain was not to be seen in 2015, but suddenly in 2016, it has already hit the peak of inflated expectations.
 
-2015: http://www.gartner.com/newsroom/id/3114217    
-2016: http://www.gartner.com/newsroom/id/3412017
+2015: [http://www.gartner.com/newsroom/id/3114217](http://www.gartner.com/newsroom/id/3114217)
+2016: [http://www.gartner.com/newsroom/id/3412017](http://www.gartner.com/newsroom/id/3412017)
 
 If you take this comparison and combine it with these articles:    
 1. [https://techcrunch.com/2016/05/11/the-blockchain-is-the-new-google/](https://techcrunch.com/2016/05/11/the-blockchain-is-the-new-google/)    
